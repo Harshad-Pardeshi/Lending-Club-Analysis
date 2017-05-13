@@ -1,0 +1,3 @@
+# Lending-Club-Analysis
+
+This analysis is done on data ranging from 2007 to 2016-Q4 on both accepted and rejected loans. We have used classification, clustering and prediction models to predict the interest rate of the loan. The project has been implemented in Python and R using Jupyter Notebook and RStudio and the best models have been deployed using Azure Machine Learning Studio. We have also used IBM Data Science Experience to parallelize the efforts. Data download, cleaning and storing cleaned files on Amazon S3 buscket have been dockerized and pipelined using Luigi. Exploratory data analysis have been performed on PowerBI.
