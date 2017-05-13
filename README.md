@@ -1,0 +1,2 @@
+# Lending-Club-Analysis
+For this project, we wish to present and explore the data provided by Lending Club. Lending Club (LC) is a peer-to-peer online lending platform. It is the world’s largest marketplace connecting borrowers and investors, where consumers and small business owners lower the cost of their credit and enjoy a better experience than traditional bank lending, and investors earn attractive risk-adjusted returns.
